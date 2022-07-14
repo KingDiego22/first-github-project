@@ -1,0 +1,6 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "files.exclude": {
+        "**/.git": false
+    }
+}
